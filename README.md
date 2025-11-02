@@ -64,6 +64,3 @@ Log in to **WandB** to track the training process, log metrics, and visualize re
 
 5. **Web App**:
 To run the interactive Web App, use the following command in your terminal:
-
-## How to Use
-1. **Clone the repository**:
